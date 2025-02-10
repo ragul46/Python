@@ -8,10 +8,10 @@ Welcome to this comprehensive repository designed to explore and showcase key Py
 
 This repository includes examples and tutorials on the following popular Python libraries:
 
-- **NumPy** 🔢: The foundational package for scientific computing in Python. Learn how to handle arrays, matrices, and perform numerical operations efficiently.
+- **N[umPy](Numpy_Tutorial.ipynb)** 🔢: The foundational package for scientific computing in Python. Learn how to handle arrays, matrices, and perform numerical operations efficiently.
 - **[Pandas](Pandas_tutorial.ipynb)** 🧮: A high-performance data manipulation library. Explore powerful tools for data cleaning, exploration, and analysis using `DataFrame` structures.
 - **[Matplotlib](Matplot_Tutorial.ipynb)** 📊: The go-to library for creating static, interactive, and animated visualizations in Python.
-- **Seaborn** 🖼️: Built on top of `Matplotlib`, Seaborn makes statistical plots easier to create and understand with beautiful, informative visualizations.
+- **[Seaborn](Seaborn_Tutorial.ipynb)** 🖼️: Built on top of `Matplotlib`, Seaborn makes statistical plots easier to create and understand with beautiful, informative visualizations.
 - **[Projects](projects)**: You can find the prpjects based on this topics in the repositary
 
 ---
